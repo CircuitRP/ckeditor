@@ -32,7 +32,6 @@ import ListStyle from '@ckeditor/ckeditor5-list/src/liststyle.js';
 import MediaEmbed from '@ckeditor/ckeditor5-media-embed/src/mediaembed.js';
 import MediaEmbedToolbar from '@ckeditor/ckeditor5-media-embed/src/mediaembedtoolbar.js';
 import PageBreak from '@ckeditor/ckeditor5-page-break/src/pagebreak.js';
-import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefromoffice';
 import Strikethrough from '@ckeditor/ckeditor5-basic-styles/src/strikethrough.js';
 import Table from '@ckeditor/ckeditor5-table/src/table.js';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar.js';
@@ -57,7 +56,6 @@ Editor.builtinPlugins = [
 	CloudServices,
 	Code,
 	CodeBlock,
-	Enter,
 	Heading,
 	HorizontalLine,
 	Image,
@@ -75,14 +73,14 @@ Editor.builtinPlugins = [
 	ListStyle,
 	MediaEmbed,
 	MediaEmbedToolbar,
-	Mention,
 	PageBreak,
-	PasteFromOffice,
 	Strikethrough,
 	Table,
 	TableToolbar,
 	TextTransformation,
 	Underline,
+	Enter,
+	Mention,
 	WordCount
 ];
 
