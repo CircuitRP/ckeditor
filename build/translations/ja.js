@@ -1,1 +1,0 @@
-!function(n){const i=n.ja=n.ja||{};i.dictionary=Object.assign(i.dictionary||{},{"Characters: %0":"文字数: %0","Words: %0":"単語数: %0"}),i.getPluralForm=function(n){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

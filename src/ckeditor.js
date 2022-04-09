@@ -3,11 +3,10 @@
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 import Mention from "@ckeditor/ckeditor5-mention/src/mention";
-import WordCount from "@ckeditor/ckeditor5-word-count/src/wordcount";
 
 class Editor extends ClassicEditor {}
 
 // Plugins to include in the build.
-Editor.builtinPlugins = [Mention, WordCount];
+Editor.builtinPlugins = [Mention];
 
 export default Editor;

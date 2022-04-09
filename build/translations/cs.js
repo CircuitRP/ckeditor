@@ -1,1 +1,0 @@
-!function(n){const o=n.cs=n.cs||{};o.dictionary=Object.assign(o.dictionary||{},{"Characters: %0":"Počet znaků: %0","Words: %0":"Počet slov: %0"}),o.getPluralForm=function(n){return 1==n&&n%1==0?0:n>=2&&n<=4&&n%1==0?1:n%1!=0?2:3}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
