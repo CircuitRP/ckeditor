@@ -1,0 +1,1 @@
+!function(n){const r=n.az=n.az||{};r.dictionary=Object.assign(r.dictionary||{},{"Characters: %0":"Simvolar: %0","Words: %0":"Sözlər: %0"}),r.getPluralForm=function(n){return 1!=n}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

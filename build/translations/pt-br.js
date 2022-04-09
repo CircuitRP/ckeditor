@@ -1,0 +1,1 @@
+!function(r){const t=r["pt-br"]=r["pt-br"]||{};t.dictionary=Object.assign(t.dictionary||{},{"Characters: %0":"Caracteres: %0","Words: %0":"Palavras: %0"}),t.getPluralForm=function(r){return r>1}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

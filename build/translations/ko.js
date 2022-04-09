@@ -1,0 +1,1 @@
+!function(n){const o=n.ko=n.ko||{};o.dictionary=Object.assign(o.dictionary||{},{"Characters: %0":"문자 수: %0","Words: %0":"단어 수: %0"}),o.getPluralForm=function(n){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

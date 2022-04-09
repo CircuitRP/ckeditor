@@ -1,0 +1,1 @@
+!function(n){const r=n.ru=n.ru||{};r.dictionary=Object.assign(r.dictionary||{},{"Characters: %0":"Символов: %0","Words: %0":"Слов: %0"}),r.getPluralForm=function(n){return n%10==1&&n%100!=11?0:n%10>=2&&n%10<=4&&(n%100<12||n%100>14)?1:n%10==0||n%10>=5&&n%10<=9||n%100>=11&&n%100<=14?2:3}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,0 +1,1 @@
+!function(n){const i=n.fi=n.fi||{};i.dictionary=Object.assign(i.dictionary||{},{"Characters: %0":"Merkkejä: %0","Words: %0":"Sanoja: %0"}),i.getPluralForm=function(n){return 1!=n}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

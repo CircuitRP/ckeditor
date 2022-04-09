@@ -1,0 +1,1 @@
+!function(r){const n=r.fr=r.fr||{};n.dictionary=Object.assign(n.dictionary||{},{"Characters: %0":"Caractères : %0","Words: %0":"Mots : %0"}),n.getPluralForm=function(r){return r>1}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
